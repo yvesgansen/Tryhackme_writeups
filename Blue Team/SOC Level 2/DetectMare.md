@@ -8,7 +8,9 @@ Jordan Blake from CSIRT team submitted several pull requests (PR) with Sigma Rul
 
 ## Exploring tss-dac
 
-A good place to start in the tss-dac, is the incident_report.md file. That file contains the details about the attack.
+A good place to start in the tss-dac, is the incident_report.md file in the threat-intel folder. That file contains the details about the attack.
+
+Another important file is environment-routines.md in the docs folder describing benign activity to be filtered out from the Sigma rules.
 
 ## Questions
 
