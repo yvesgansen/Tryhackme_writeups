@@ -49,3 +49,9 @@ First I checked what the current Sigma rule filters to see what can be tuned.
 ### In which folder should an attacker place a malicious binary to make it look like a legitimate backup routine?
 
 ### What is the PR#5 flag?
+
+## Video Walkthrough
+
+For a video walkthrough I can recommend this video by Djalil Ayed, which I also consult when I'm stuck.
+
+[TryHackMe DetectMare | Detection Engineering | Sigma | Full Walkthrough 2026 by Djalil Ayed](https://www.youtube.com/watch?v=wScy0e9nkfk)
